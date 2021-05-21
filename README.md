@@ -1,5 +1,9 @@
 # ConwaysGameOfLife3D
 
+Video footage:
+
+[![image_012_1336](https://user-images.githubusercontent.com/43807989/119130724-db976880-ba38-11eb-9b8a-ecab49c33ed1.png)](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)
+
 ## Why did I do this?
 A project created inspired by the requirements of "Computer Modeling" college course. 
 I was supposed to implement Conway's Game of Life in an environment of my choice. 
